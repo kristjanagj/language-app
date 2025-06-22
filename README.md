@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 The Language Learning App is an interactive platform designed to help users learn languages, specifically Albanian and Spanish. The app includes puzzles, games, and various learning modules to help students improve their vocabulary and sentence construction. The platform is divided into two user roles:
 
 Students can access learning modules, puzzles, and games to practice their skills.
@@ -6,7 +7,9 @@ Students can access learning modules, puzzles, and games to practice their skill
 Teachers can create, update, and delete modules, providing a personalized learning experience for students.
 
 Features
+
 Student Features:
+
 Read and learn: Access 7 modules for both Albanian and Spanish languages.
 
 Interactive puzzles and games: Engage with word arrangement puzzles to reinforce sentence structures.
@@ -18,6 +21,7 @@ Language practice: Focused on sentence formation, vocabulary, and language compr
 Progress tracking: Basic feedback for students on puzzle correctness.
 
 Teacher Features:
+
 Module creation: Teachers can create new learning modules for both languages.
 
 Edit & update modules: Teachers can modify existing modules to fit the needs of their students.
@@ -65,6 +69,7 @@ This will launch the frontend application on http://localhost:5173
 This will launch the backend application on http://localhost:5005
 
 Usage
+
 For Students:
 
 Browse the modules: Access 7 modules for each language (Albanian and Spanish).
