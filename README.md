@@ -65,6 +65,7 @@ Set up environment variables (e.g., for database connection, JWT secret, etc.) i
 Start the development server:
 
 npm run dev
+
 This will launch the frontend application on http://localhost:5173
 This will launch the backend application on http://localhost:5005
 
