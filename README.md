@@ -36,7 +36,7 @@ React (Functional Components & Hooks)
 
 JavaScript (ES6+)
 
-CSS for basic styling
+CSS for styling
 
 JSON file to store language modules and puzzles
 
