@@ -45,11 +45,7 @@ Steps to run the project locally:
 
 Clone the repository for frontend:
 
-git clone https://github.com/sirdix78/language-app.git
-
-Clone the repository for backend:
-
-git clone https://github.com/sirdix78/json-server-backend.git
+git clone https://github.com/kristjanagj/language-app.git
 
 Navigate to the project directory:
 
