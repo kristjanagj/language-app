@@ -26,7 +26,8 @@ Module deletion: Teachers can remove outdated or irrelevant modules.
 
 Module content: Teachers can manage text-based content, including sentences for puzzles and language games.
 
-Technologies Used
+Technologies Used:
+
 React (Functional Components & Hooks)
 
 JavaScript (ES6+)
@@ -37,8 +38,8 @@ JSON file to store language modules and puzzles
 
 Local Storage / Static File to serve JSON data
 
-Installation
-Prerequisites:
+Installation Prerequisites:
+
 Node.js installed on your local machine.
 
 Steps to run the project locally:
@@ -50,9 +51,11 @@ git clone https://github.com/kristjanagj/language-app.git
 Navigate to the project directory:
 
 cd language-learning-app
+
 Install dependencies:
 
 npm install
+
 Set up environment variables (e.g., for database connection, JWT secret, etc.) in a .env file.
 
 Start the development server:
@@ -82,16 +85,3 @@ Delete modules: Remove outdated or irrelevant modules from the system.
 
 Track student progress: View student feedback and module engagement.
 
-Future Improvements
-Add more languages: Extend the app to support additional languages for learning.
-
-Gamification: Add achievements, points, or levels for students to enhance engagement.
-
-Progress tracking: Implement a more detailed progress tracking system for students, such as quizzes or tests.
-
-Admin panel: Allow admins to manage teachers and students, and approve content.
-
-Mobile app: Develop a mobile version of the app for easier access.
-
-License
-This project is licensed under the MIT License.
